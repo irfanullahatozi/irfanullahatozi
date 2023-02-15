@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/irfanullahatozi"><img src="https://api.daily.dev/devcards/43238c065e3a4be1abb3edb72ef47b7f.png?r=v6g" width="400" alt="Irfan Ullah's Dev Card"/></a>
+
 
 <!--
 **irfanullahatozi/irfanullahatozi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
