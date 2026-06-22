@@ -54,6 +54,17 @@ Currently, I am transitioning into **Cybersecurity Engineering**, focusing on:
 
 ---
 
+## 🎓 Certifications
+
+### 🛡️ Cybersecurity & Networking Certifications
+- 🧠 CompTIA Network+  
+- 🔐 CompTIA Security+  
+- 📊 CompTIA CySA+ (Cybersecurity Analyst)  
+- 🌐 CCNA (Cisco Certified Network Associate – Networking & Switching)  
+- 🔵 Blue Team Level 1 (BTL1) – SOC & Incident Response Fundamentals
+
+---
+
 ## 🔐 Cybersecurity Focus Areas
 
 - 🛡️ SOC Operations & Incident Response  
