@@ -2,7 +2,7 @@
 
 🚀 Lead Engineer | Full Stack Developer (MERN / PERN / Python)  
 🛡️ Aspiring Cybersecurity Engineer (SOC | Threat Intelligence | Security Automation)  
-🏢 Currently working at :contentReference[oaicite:0]{index=0}  
+🏢 Currently working at : Arcelik Global  
 🌍 Building scalable systems, APIs, and security-driven architectures
 
 ---
@@ -103,9 +103,9 @@ Currently, I am transitioning into **Cybersecurity Engineering**, focusing on:
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
-- 🧑‍💻 GitHub: https://github.com/YOUR_USERNAME  
-- 📧 Email: YOUR_EMAIL  
+- 💼 LinkedIn: https://linkedin.com/in/irfanullahatozi  
+- 🧑‍💻 GitHub: https://github.com/irfanullahatozi  
+- 📧 Email: irfanullahatozi@gmail.com  
 
 ---
 
