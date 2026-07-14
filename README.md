@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Irfan Ullah
 
-🚀 Lead Engineer | Full Stack Developer (MERN / PERN / Python)  
-🛡️ Aspiring Cybersecurity Engineer (SOC | Threat Intelligence | Security Automation)  
-🏢 Currently working at : Arcelik Global  
-🌍 Building scalable systems, APIs, and security-driven architectures
+🚀 Lead Engineer | Backend & Platform Engineer | Full Stack Developer
+🛡️ Cybersecurity Engineer (SOC • Threat Intelligence • Security Automation)
+🏢 Lead Engineer at Arçelik Global
+📺 Building Android TV & Google TV Platforms, Enterprise Backend Systems, AI Solutions, and Security Automation
+🌍 10+ Years of Experience in Enterprise Software Engineering
 
 ---
 
@@ -76,22 +77,168 @@ Currently, I am transitioning into **Cybersecurity Engineering**, focusing on:
 
 ---
 
-## 🚀 Current Projects
+# 🚀 Featured Projects
 
-### 🧠 AI-Powered SOC Automation System
-- Log ingestion & classification
-- AI-based alert prioritization
-- Automated incident response workflows
+## 📺 Remoteasy – Universal Smart TV Remote
 
-### 🔗 Threat Intelligence Platform
-- OpenCTI + MISP integration
-- IOC enrichment pipelines
-- Python-based automation connectors
+🔗 **Google Play:**
+https://play.google.com/store/apps/details?id=com.arcelik.remoteasy&hl=en
 
-### 🛡️ IDS + Auto Response System
-- Suricata alerts → Wazuh SIEM
-- Real-time threat detection
-- Auto firewall blocking via scripts
+Remoteasy is a universal remote control application that enables users to seamlessly control compatible Smart TVs from their mobile devices. The application supports a wide range of television brands and provides a modern, intuitive user experience.
+
+### 🚀 Key Contributions
+
+* Designed and developed scalable backend services supporting millions of connected devices.
+* Built and maintained RESTful APIs for mobile and Smart TV communication.
+* Improved backend performance, reliability, and scalability.
+* Integrated cloud-based services for secure device management.
+* Collaborated with cross-functional teams to deliver new features and production releases.
+* Resolved production issues and optimized application stability.
+
+**Technologies**
+
+`Node.js` `Python` `PostgreSQL` `Docker` `REST APIs` `Android TV` `Google TV`
+
+---
+
+## 🏠 HomeWhiz – Smart Home Ecosystem
+
+🔗 **Google Play:**
+https://play.google.com/store/apps/details?id=com.homewhiz.global&hl=en
+
+HomeWhiz is a smart home platform that connects home appliances, IoT devices, and cloud services, allowing users to remotely monitor and control their connected products.
+
+### 🚀 Key Contributions
+
+* Developed enterprise-grade backend microservices.
+* Designed secure and scalable REST APIs.
+* Optimized database performance and query efficiency.
+* Implemented cloud integrations for connected appliance services.
+* Enhanced system reliability through performance tuning and production support.
+* Collaborated with distributed engineering teams on feature delivery and maintenance.
+
+**Technologies**
+
+`Node.js` `Django` `Python` `PostgreSQL` `MongoDB` `Docker` `AWS`
+
+---
+
+## 🌐 Arctobius Web Crawler
+
+🔗 **Chrome Web Store:**
+https://chromewebstore.google.com/detail/arctobius-web-crawler/mpmbplggcjflgkamnkfbbcmphidcigai
+
+Arctobius is a configurable web crawling and data extraction platform that automates structured information collection from websites through customizable extraction rules.
+
+### 🚀 Key Contributions
+
+* Designed the crawler architecture and extraction pipeline.
+* Developed configurable rule-based crawling workflows.
+* Implemented browser automation using Selenium.
+* Built scalable data extraction and processing modules.
+* Improved crawling performance and data accuracy.
+
+**Technologies**
+
+`Python` `Django` `Selenium` `BeautifulSoup` `JavaScript` `Chrome Extension APIs`
+
+---
+
+## 📺 RCOS SDK Platform
+
+🔗 **Official Website:**
+https://rcossdk.com/
+
+RCOS SDK provides a development platform for building applications and services for Smart TV ecosystems.
+
+### 🚀 Key Contributions
+
+* Contributed to Smart TV platform development and SDK enhancements.
+* Implemented platform-level features and middleware improvements.
+* Optimized application performance and system stability.
+* Integrated backend services with Android TV and Google TV platforms.
+* Supported long-term maintenance, debugging, and release cycles.
+
+**Technologies**
+
+`Android` `Android TV` `Google TV` `Java` `Kotlin` `Node.js`
+
+---
+
+## 📺 Beko Android TV & Google TV Platform
+
+Contributed to the software platform powering **Beko Smart TVs**, focusing on delivering a reliable, high-performance entertainment experience across Android TV and Google TV devices.
+
+### 🚀 Key Contributions
+
+* Developed and enhanced platform-level features for Smart TVs.
+* Integrated Android TV and Google TV platform capabilities.
+* Optimized multimedia playback and overall system performance.
+* Worked with middleware components and platform services.
+* Investigated and resolved complex production issues.
+* Collaborated with global engineering teams throughout the software development lifecycle.
+* Contributed to feature planning, implementation, testing, and production releases.
+
+**Technologies**
+
+`Android` `Android TV` `Google TV` `Java` `Kotlin` `ExoPlayer` `AOSP`
+
+---
+
+## 🛡️ AI-Powered SOC Automation System *(Research Project)*
+
+An AI-assisted Security Operations Center (SOC) platform designed to automate security monitoring, incident analysis, and response workflows.
+
+### 🚀 Features
+
+* AI-assisted alert prioritization
+* Security event classification
+* Automated incident response workflows
+* Threat correlation
+* Log enrichment
+* Security dashboards
+
+**Technologies**
+
+`Python` `Wazuh` `Elasticsearch` `Docker` `OpenAI APIs`
+
+---
+
+## 🔗 Threat Intelligence Platform *(Research Project)*
+
+A Cyber Threat Intelligence platform integrating OpenCTI and MISP to automate threat intelligence collection, IOC enrichment, and security monitoring.
+
+### 🚀 Features
+
+* OpenCTI and MISP integration
+* Automated IOC synchronization
+* GraphQL-based data collection
+* IOC enrichment pipelines
+* Wazuh integration
+* Threat correlation and analysis
+
+**Technologies**
+
+`Python` `OpenCTI` `MISP` `GraphQL` `Docker` `Wazuh`
+
+---
+
+## 🛡️ IDS + Automated Response System *(Research Project)*
+
+A security monitoring solution integrating intrusion detection, SIEM, and automated response capabilities for real-time threat detection.
+
+### 🚀 Features
+
+* Suricata IDS integration
+* Wazuh SIEM correlation
+* IOC-based threat detection
+* Automated firewall response
+* Security alerting and monitoring
+* Incident response automation
+
+**Technologies**
+
+`Suricata` `Wazuh` `Python` `Linux` `Docker` `ELK Stack`
 
 ---
 
