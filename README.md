@@ -1,9 +1,13 @@
 # 👋 Hi, I'm Irfan Ullah
 
 🚀 Lead Engineer | Backend & Platform Engineer | Full Stack Developer
+
 🛡️ Cybersecurity Engineer (SOC • Threat Intelligence • Security Automation)
+
 🏢 Lead Engineer at Arçelik Global
+
 📺 Building Android TV & Google TV Platforms, Enterprise Backend Systems, AI Solutions, and Security Automation
+
 🌍 10+ Years of Experience in Enterprise Software Engineering
 
 ---
